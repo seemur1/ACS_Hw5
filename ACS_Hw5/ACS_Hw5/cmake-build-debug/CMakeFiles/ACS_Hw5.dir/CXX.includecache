@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/semenkondakov/CLionProjects/Algorithms/ACS_Hw5/ACS_Hw5/main.cpp
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+pthread.h
+-
+cstring
+-
+ctime
+-
+sys/stat.h
+-
+

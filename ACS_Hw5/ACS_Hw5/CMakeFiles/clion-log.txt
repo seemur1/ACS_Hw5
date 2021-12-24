@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/semenkondakov/CLionProjects/Algorithms/ACS_Hw5/ACS_Hw5 Select CMakeLists.txt
